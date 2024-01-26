@@ -1,0 +1,24 @@
+﻿  Boid.cpp
+C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\Final Project\src\Boid.cpp(52,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\Final Project\src\Boid.cpp(53,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Boids.cpp
+  camera.cpp
+  Skybox.cpp
+  Light.cpp
+  main.cpp
+C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\Final Project\src\main.cpp(94,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\Final Project\src\main.cpp(100,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\Final Project\src\main.cpp(278,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\Final Project\src\main.cpp(295,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\Final Project\src\main.cpp(450,50): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\Final Project\src\main.cpp(451,49): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\Final Project\src\main.cpp(494,54): warning C4305: 'argument': truncation from 'double' to 'float'
+  Material.cpp
+  maths_funcs.cpp
+C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\Final Project\src\maths_funcs.cpp(725,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\Final Project\src\maths_funcs.cpp(728,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Model.cpp
+  Player.cpp
+  Shader.cpp
+  Generating Code...
+  Final Project.vcxproj -> C:\Users\user\Documents\Computer Graphics Project\Computer Graphics Final Project\Final Project - v3\bin\Win32\Debug\Final Project.exe

@@ -1,0 +1,21 @@
+﻿  Boid.cpp
+C:\Users\user\Documents\Computer Graphics Project\Final Project - v3\Final Project\src\Boid.cpp(1,10): fatal error C1083: Cannot open include file: 'boid.h': No such file or directory
+  Boids.cpp
+C:\Users\user\Documents\Computer Graphics Project\Final Project - v3\Final Project\src\Boids.cpp(1,10): fatal error C1083: Cannot open include file: 'boids.h': No such file or directory
+  camera.cpp
+C:\Users\user\Documents\Computer Graphics Project\Final Project - v3\Final Project\src\camera.cpp(1,10): fatal error C1083: Cannot open include file: 'camera.h': No such file or directory
+  Light.cpp
+C:\Users\user\Documents\Computer Graphics Project\Final Project - v3\Final Project\src\Light.cpp(1,10): fatal error C1083: Cannot open include file: 'light.h': No such file or directory
+  main.cpp
+C:\Users\user\Documents\Computer Graphics Project\Final Project - v3\Final Project\src\main.cpp(6,10): fatal error C1083: Cannot open include file: 'shader.h': No such file or directory
+  Material.cpp
+C:\Users\user\Documents\Computer Graphics Project\Final Project - v3\Final Project\src\Material.cpp(1,10): fatal error C1083: Cannot open include file: 'material.h': No such file or directory
+  maths_funcs.cpp
+C:\Users\user\Documents\Computer Graphics Project\Final Project - v3\Final Project\src\maths_funcs.cpp(1,10): fatal error C1083: Cannot open include file: 'maths_funcs.h': No such file or directory
+  Model.cpp
+C:\Users\user\Documents\Computer Graphics Project\Final Project - v3\Final Project\src\Model.cpp(1,10): fatal error C1083: Cannot open include file: 'model.h': No such file or directory
+  Player.cpp
+C:\Users\user\Documents\Computer Graphics Project\Final Project - v3\Final Project\src\Player.cpp(1,10): fatal error C1083: Cannot open include file: 'player.h': No such file or directory
+  Shader.cpp
+C:\Users\user\Documents\Computer Graphics Project\Final Project - v3\Final Project\src\Shader.cpp(4,10): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
+  Generating Code...
